@@ -1,7 +1,7 @@
 # 권서인은 누구인가
 
 
-|![alt image](https://raw.githubusercontent.com/seoinkwon/About-Seoinkwon/master/권서인.jpg?token=AOGGAOHOHY6NVQ7JAJDV4OC6CTN6Y "살아생전의 권서인 프로필"){: width="40%" height="40%"}|
+|![alt image](https://raw.githubusercontent.com/seoinkwon/About-Seoinkwon/master/권서인.jpg?token=AOGGAOHOHY6NVQ7JAJDV4OC6CTN6Y "살아생전의 권서인 프로필"){: width="500" height="800"}|
 |:---:|
 |살아생전의 권서인의 프로필사진|
 
