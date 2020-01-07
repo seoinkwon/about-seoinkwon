@@ -2,7 +2,9 @@
 
 <br></br>
 
-<center><img src="https://user-images.githubusercontent.com/59531320/71925402-4fcec480-31d4-11ea-9668-45674c39b1a6.jpg" width="40%" height="40%" title="권서인 프로필" alt="kwonseoin_profile"></img></center>
+|<img src="https://user-images.githubusercontent.com/59531320/71925402-4fcec480-31d4-11ea-9668-45674c39b1a6.jpg" width="40%" height="40%" title="권서인 프로필" alt="kwonseoin_profile"></img>|
+|:----:|
+|권서인의 프로필|
 
 <br></br>
 
