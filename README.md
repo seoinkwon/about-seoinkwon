@@ -1,19 +1,19 @@
-# 권서인은 누구인가
+# About-Seoinkwon
 
-<br></br>
+<br>
 
-<center><img src="https://user-images.githubusercontent.com/59531320/71925402-4fcec480-31d4-11ea-9668-45674c39b1a6.jpg" width="40%" height="40%" title="권서인 프로필" alt="kwonseoin_profile"></img></center>
+<center><img src="https://user-images.githubusercontent.com/59531320/71925402-4fcec480-31d4-11ea-9668-45674c39b1a6.jpg" width="40%" height="40%" title="권서인의 초상  (2020, 캔버스에 유채)" alt="kwonseoin_profile"></img></center>
 
-<br></br>
-
-
-
-### 경험에 대해 공부합니다.
-```권서인은 현재 동아대학교 산업디자인 학과에서 그래픽디자인과 브랜드 경험, 그리고 사용자 경험에 대하여 공부 중인 학생입니다. 권서인은 경험에 관심이 많습니다, 우리가 만지고, 보고, 듣고는 하는 일상생활의 사소한 상호작용과 그로 인해서 일어나는 <그 경험>에 대해 집중합니다.```
+<br>
 
 
 
- <br></br>
+### 권서인입니다.
+```권서인(본명 배성권)은 현재 동아대학교 산업디자인 학과에서 그래픽디자인과 브랜드 경험, 그리고 사용자 경험에 대하여 공부 중인 학생입니다. 권서인은 경험에 관심이 많습니다, 우리가 만지고, 보고, 듣고는 하는 일상생활의 사소한 상호작용과 그로 인해서 일어나는 <경험>에 대해 집중합니다.```
+
+
+
+ <br>
 
 
 
