@@ -2,6 +2,9 @@
 
 
 
+|![alt text](https://github.com/seoinkwon/About-Seoinkwon/blob/240d8abc1aabbc09497b84952d6c43fec240721e/권서인.jpg "살아생전의 권서인 프로필")|
+|:---:|
+|살아생전의 권서인의 프로필사진|
 
 
 ### 경험에 대해 공부합니다.
