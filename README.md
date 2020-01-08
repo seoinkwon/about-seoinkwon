@@ -76,7 +76,7 @@
 
 <hr>
 
-<br>
+###### © seoinkwon, All Rights Reserved.
 
 <br>
 
