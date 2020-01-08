@@ -62,7 +62,7 @@
   <br>
 
 
-#### 권서인과 웍스
+#### 권서인과 작업
 
   * 우리술바틀바 아월 브랜드디자인 (2019)
   * 부산광역시 남구 로드스타커피 & 베이커리 브랜드디자인 (2019)
@@ -74,9 +74,11 @@
 <br>
 
 
-#### 권서인의 사이트들
+#### 권서인과 사이트
 
 [권서인의 Behance](https://www.behance.net/pepper653910e4)
+
+[권서인의 Notefolio](https://notefolio.net/seonqwer)
 
 [권서인의 Facebook](fb.com/seonqwer)
 
