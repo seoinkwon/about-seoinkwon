@@ -64,6 +64,7 @@
   * [호스트랩 주최 <이웃사랑 크리스마스 후원파티> 파트너 (디자인팀) 기여 (2019)](https://www.facebook.com/HOSTLAB.kr)
   * [천춘일식당 미식연출, 브랜드디자인 노트폴리오 픽 선정 (2019)](https://notefolio.net/seonqwer/154791)
   * [마일크루 캐릭터 상품, <부산디자인센터 디자인스토어> 입점 (2020)](https://www.instagram.com/p/B6SJ1PJnHWp/?utm_source=ig_web_button_share_sheet)
+  * 마일크루 캐릭터 상품, <신기산업 신기잡화점, 신기여울> 입점 (2020)
 
 
   <br>
